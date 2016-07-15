@@ -9,9 +9,9 @@
 title: Andrew Pitts
 email: ampcodes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A home for my programming and dev blog.
+  Programming, development, terrible jokes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://andrewmpitts.github.io" # the base hostname & protocol for your site
 twitter_username: andrewpitts
 github_username:  andrewmpitts
 
