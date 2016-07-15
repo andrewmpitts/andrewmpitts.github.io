@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+![{{ site.url }}](../assets/img/me.jpg)
+Andrew Pitts is a programmer and teacher in the foothills of North Carolina. If you wish to contact him regarding
+code or offers of work, he can be reached <a href = "mailto:ampcodes@gmail.com">here</a>.
