@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andrewmpitts.github.io" # the base hostname & protocol for your site
 twitter_username: andrewpitts
 github_username:  andrewmpitts
-
+about: Andrew Pitts is a programmer and teacher in the foothills of North Carolina. If you wish to contact him regarding
+code or offers of work, he can be reached <a href = "mailto:ampcodes@gmail.com">here</a>.
 # Build settings
 markdown: kramdown
