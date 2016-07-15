@@ -4,5 +4,10 @@ title:  "League of Legends Kill Stats - Chrome Extension"
 date:   2016-07-14 21:22:56 -0400
 categories: League of Legends Killstats Chrome Extension
 ---
-The League of Legends Kill Stats extension creates a new tab on the LoL match history page. This extension parses timeline
+The League of Legends Kill Stats extension creates a new "kill timeline" tab on the LoL match history page. This extension parses timeline
 data to create a clean and easy to read chart of kill events that happen during the selected game.
+
+The kill timeline chart can be used to quickly gather data about your performance in game and can serve as a roadmap for
+viewing game replays.
+
+Enjoy!
