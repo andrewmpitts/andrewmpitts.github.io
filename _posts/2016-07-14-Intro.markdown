@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "League of Legends Kill Stats - Chrome Extension"
 date:   2016-07-14 21:22:56 -0400
 categories: jekyll update
 ---
